@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #fffff8;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+
+    background-image: url('imgs/wp6603421.jpg');
+    background-size: cover;
+}
+
+#app{
+    
+    height:100vh;
+
+    justify-content: center;
+    grid-gap: 1em;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.headline{
+    width: 100%;
+    background-color: #1c1a1a7e;
+    color: white;
+    height: 8%;
+    justify-content: center;
+    align-items: center;
+    display: flex
+}
+.zip{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    margin-top: 80px;
+}
+
+.feel{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.entry{
+    background: rgba(59, 74, 107, .4);
+    
+    
+    height: 150px;
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+
+    width: 80%;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 10px;
+
+}
+
+#entryHolder{
+    color: white;
+    width: 75%;
+}
+
+.g{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.myInput{
+    width: 45%;
+    height: 35px;
+    border-radius: 15px;
+    background-color: #69bbd39c;
+    border-color: transparent;
+    margin-right: 140px;
+}
+
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    /* width: 100px; */
+    
+}
+
+
+.sec2{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+
+label{
+    display:block;
+    font-size: 27px;
+    margin-left: 150px;
+}
+
+input{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    color:white
+}
+
+textarea{
+
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+
+button{
+    width: 200px;
+    height: 50px;
+    background: #0f2a5b;
+    color: white;
+    font-size: 26px;
+    font-family: 'Oswald', sans-serif;
+    border: none;
+    box-shadow: 2px 4px 5px #444;
+    
+    cursor: pointer;
+}
+h1{
+    font-size: 36px;
+}
+
+
+/* Reset style for HTML element on active to have no border*/
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+/* Style for Placeholder Text*/
+::placeholder { /* Firefox, Chrome, Opera */ 
+    
+    font-family: 'Oswald', sans-serif;
+
+} 
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */ 
+    
+    font-family: 'Oswald', sans-serif;
+
+} 
+
+::-ms-input-placeholder { /* Microsoft Edge */ 
+    
+    font-family: 'Oswald', sans-serif;
+
+} 
