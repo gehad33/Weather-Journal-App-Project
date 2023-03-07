@@ -18,4 +18,4 @@ the project requires the user to enter the zip code of the city they want to kno
 
 <a href="https://drive.google.com/file/d/13j4vCkbakCfS3p4b16RZvj266zcpHGPp/view?usp=share_link">The Weather Journal App Project Image</a>
 
-![The San Juan Mountains are beautiful!](https://drive.google.com/file/d/13j4vCkbakCfS3p4b16RZvj266zcpHGPp/view?usp=share_link "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://drive.google.com/file/d/13j4vCkbakCfS3p4b16RZvj266zcpHGPp/view?usp=share_link)
