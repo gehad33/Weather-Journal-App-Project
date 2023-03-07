@@ -16,4 +16,4 @@ the project requires the user to enter the zip code of the city they want to kno
 - the project uses Node.js as its backend
 - node_moduels folder is not commited
 
-![The Weather Journal App Project](https://drive.google.com/file/d/13j4vCkbakCfS3p4b16RZvj266zcpHGPp/view?usp=sharing "The Weather Journal App Project.")
+![The Weather Journal App Project](https://drive.google.com/file/d/13j4vCkbakCfS3p4b16RZvj266zcpHGPp/view?usp=sharing)
