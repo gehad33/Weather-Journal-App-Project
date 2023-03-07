@@ -3,14 +3,14 @@
 ## Project Description and Usage
 This project creates an asynchronous web app that uses Web API and user data to dynamically update the UI with:
 
-- the temperature in Fehenhite
+- the temperature in fehrenhite
 - the weather forecast
 - the city of the zip code
 - the country the city belongs to
 - the day's date
 - the feelings and the words the user entered earlier
 
-the project requires the user to enter the zip code of the city they want to know its weather in that day, and also requires them if they want to express how thet feel in that dat.
+the project requires the user to enter the zip code of the city they want to know its weather in that day, and also requires them if they want to express how they feel on that day.
 
 ## Notes
 - the project uses Node.js as its backend
